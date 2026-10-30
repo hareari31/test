@@ -4,3 +4,10 @@ body{
 .title {
 	color: #5C6AC4;
 }
+h1{
+	color: lightblue;
+}
+
+h2{
+	color: darkred;
+}
